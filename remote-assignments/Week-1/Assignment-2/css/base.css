@@ -90,7 +90,6 @@ ul {
 	justify-content:center;
 	margin: auto;
 	height: 140px;
-	
 }
 
 .box{
@@ -111,5 +110,8 @@ ul {
     height: 24px;
 	padding: 2px 2px ;
 	justify-content: center;
-	
+}
+
+.hidden, .moreBox { 
+	display: none; 
 }
